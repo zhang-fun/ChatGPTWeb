@@ -48,7 +48,7 @@ onMounted(() => {
         <p>
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/Chanzhaoyu/chatgpt-web"
+            href="https://zhang.fun/article/give-me-a-coffee"
             target="_blank"
           >
 						赞助打赏
